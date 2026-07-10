@@ -1,0 +1,18 @@
+I want to create a section for the DEVCONF 2026 website 
+that explains why people should attend. 
+This section should be clean and modern. 
+It should have four cards that tell people 
+about the things they can get from attending DEVCONF 2026.
+These cards should be about Expert Speakers, Workshops, Networking and Certificate. 
+The cards should look good on all devices have writing and use blue and white colors.
+The information should be short, interesting and easy to understand.
+
+The four cards:
+1.Expert Speakers: this is where we tell people about the speakers
+ they will meet at DEVCONF 2026
+2.Workshops: this card is, about the hands-on activities people can do at DEVCONF 2026
+3.Networking: this is where we talk about how people can meet others at DEVCONF 2026
+4.Certificate: this card tells people about the certificate they will
+ get after attending DEVCONF 2026
+
+I want all of this to look professional and be fun to read.
