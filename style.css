@@ -281,6 +281,10 @@ footer{
     justify-content:space-between;
     align-items:center;
 }
+footer p,
+.footer-links a{
+    color:#9ca3af;
+}
 .footer-right{
     display:flex;
     align-items:center;
@@ -289,6 +293,9 @@ footer{
 .footer-links{
     display:flex;
     gap:20px;
+}
+.footer-links a:hover{
+    color:#9ca3af;
 }
 .footer-links a,
 .social-links{
