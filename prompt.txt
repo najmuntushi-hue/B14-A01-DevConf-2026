@@ -15,4 +15,4 @@ The four cards:
 4.Certificate: this card tells people about the certificate they will
  get after attending DEVCONF 2026
 
-I want all of this to look professional and be fun to read.
+I want all of this to look professional and be fun to read.git

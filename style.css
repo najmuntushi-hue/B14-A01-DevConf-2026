@@ -291,24 +291,28 @@ footer{
     gap:20px;
 }
 .footer-links a,
-.social-links a{
-    color:white;
-    text-decoration:none;
-}
 .social-links{
     display:flex;
-    gap:10px;
+    gap:12px;
 }
 .social-links a{
-    width:32px;
-    height:32px;
+    width:40px;
+    height:40px;
     border-radius:50%;
-    background:white;
-    color:#0f172a;
+    background:#ffffff;
     display:flex;
-    align-items:center;
     justify-content:center;
-    font-weight:700;
+    align-items:center;
+    transition:.3s;
+}
+.social-links a:hover{
+    background:#2563eb;
+    transform:translateY(-3px);
+}
+.social-links img{
+    width:20px;
+    height:20px;
+    object-fit:contain;
 }
 @media(max-width:992px){
     .navbar{
